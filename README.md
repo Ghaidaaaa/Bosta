@@ -46,3 +46,12 @@ You can view the public test reports and runs here:
 
 https://cloud.cypress.io/projects/4aa9r3
 
+### 4. What to Expect
+
+1- Run the following Tests: BankInfo.API.cy.js
+                        ForgotPassword-API.cy.js
+                        ForgotPassword-API.cy.js
+2- The scripts will run the Promt into OpenAI API to generate security tests as the Curl Example and get the Response
+3- Insert the scripts into Generated folder with the OpenAI's response in JSON format
+
+
