@@ -56,4 +56,8 @@ https://cloud.cypress.io/projects/4aa9r3
 4- Screenshot folder will be created to save Screenshots for Failed tests if any
 5- Cypress Dashboard will generate payable Video for failed tests for observation with all the actions and APIs
 
+**NOTE**
+Please note that I couldn't re-format the output from OpenAi to be an exutable code automatically, I think it can be done. Please note that I did what I could in the given time.
+Thanks!
+
 
