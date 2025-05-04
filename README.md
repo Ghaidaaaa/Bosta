@@ -53,5 +53,7 @@ https://cloud.cypress.io/projects/4aa9r3
                         ForgotPassword-API.cy.js
 2- The scripts will run the Promt into OpenAI API to generate security tests as the Curl Example and get the Response
 3- Insert the scripts into Generated folder with the OpenAI's response in JSON format
+4- Screenshot folder will be created to save Screenshots for Failed tests if any
+5- Cypress Dashboard will generate payable Video for failed tests for observation with all the actions and APIs
 
 
