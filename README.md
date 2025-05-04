@@ -20,6 +20,7 @@ cd <project-directory>
 Run the following to install everything you need:
 
 npm install
+ npm install cypress --save-dev
 
 Required dependencies:
 
